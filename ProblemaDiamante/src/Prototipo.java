@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Anderson Ribeiro
+ * 
+ */
 public interface Prototipo {
 
 	public default void atacar() {
